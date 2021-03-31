@@ -1,1 +1,1 @@
-# Otimizacao-COS360
+# COS360 Otimização (_Optimization_) @ ECI-UFRJ
